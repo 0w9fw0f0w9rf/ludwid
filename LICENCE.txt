@@ -1,0 +1,25 @@
+LICENZA / LICENCE
+=================
+
+Copyright (c) 2026 ludwid. Tutti i diritti riservati.
+
+1. CONTENUTI
+   Testi, fotografie, copertine, disegno SVG, video e musica presenti in questo sito
+   non possono essere copiati, modificati, ridistribuiti o usati senza autorizzazione
+   scritta dell'autore. Fotografie e copertine restano di proprietà dei rispettivi
+   autori e titolari dei diritti.
+
+2. CODICE E STRUTTURA DEL SITO
+   HTML, CSS e JavaScript di questo sito: tutti i diritti riservati. Se in futuro
+   vorrai renderli riutilizzabili da altri, sostituisci questo punto con una licenza
+   a tua scelta (per esempio MIT).
+
+3. COMPONENTI DI TERZI
+   - Font Roboto: Copyright The Roboto Project Authors, licenza Apache 2.0.
+     Il testo della licenza è in assets/fonts/LICENSE-Roboto.txt.
+   - Video: ospitati su YouTube e collegati dal sito; soggetti ai termini di YouTube.
+   - Loghi di Instagram e Bandcamp: marchi dei rispettivi titolari, usati solo come
+     collegamento ai profili.
+
+Questo testo è un modello di partenza e non è consulenza legale: controllalo e
+adattalo, eventualmente con l'aiuto di un professionista.
